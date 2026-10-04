@@ -1,10 +1,194 @@
 [
-    {
-        "name": "Europe/Amsterdam",
-        "code": "NL"
-    },
-    {
-        "name": "Europe/London",
-        "code": "UK"
-    }
+  {
+    "name": "Pacific/Pago_Pago",
+    "code": "PPG"
+  },
+  {
+    "name": "Pacific/Honolulu",
+    "code": "HNL"
+  },
+  {
+    "name": "America/Anchorage",
+    "code": "ANC"
+  },
+  {
+    "name": "America/Vancouver",
+    "code": "YVR"
+  },
+  {
+    "name": "America/Los_Angeles",
+    "code": "LAX"
+  },
+  {
+    "name": "America/Edmonton",
+    "code": "YEA"
+  },
+  {
+    "name": "America/Denver",
+    "code": "DEN"
+  },
+  {
+    "name": "America/Mexico_City",
+    "code": "MEX"
+  },
+  {
+    "name": "America/Chicago",
+    "code": "CHI"
+  },
+  {
+    "name": "America/New_York",
+    "code": "NYC"
+  },
+  {
+    "name": "America/Santiago",
+    "code": "SCL"
+  },
+  {
+    "name": "America/Halifax",
+    "code": "YHZ"
+  },
+  {
+    "name": "America/St_Johns",
+    "code": "YYT"
+  },
+  {
+    "name": "America/Sao_Paulo",
+    "code": "RIO"
+  },
+  {
+    "name": "America/Noronha",
+    "code": "FEN"
+  },
+  {
+    "name": "Atlantic/Cape_Verde",
+    "code": "RAI"
+  },
+  {
+    "name": "Europe/Lisbon",
+    "code": "LIS"
+  },
+  {
+    "name": "Europe/London",
+    "code": "LON"
+  },
+  {
+    "name": "Europe/Madrid",
+    "code": "MAD"
+  },
+  {
+    "name": "Europe/Paris",
+    "code": "PAR"
+  },
+  {
+    "name": "Europe/Rome",
+    "code": "ROM"
+  },
+  {
+    "name": "Europe/Berlin",
+    "code": "BER"
+  },
+  {
+    "name": "Europe/Stockholm",
+    "code": "STO"
+  },
+  {
+    "name": "Europe/Athens",
+    "code": "ATH"
+  },
+  {
+    "name": "Africa/Cairo",
+    "code": "CAI"
+  },
+  {
+    "name": "Asia/Jerusalem",
+    "code": "JRS"
+  },
+  {
+    "name": "Europe/Moscow",
+    "code": "MOW"
+  },
+  {
+    "name": "Asia/Riyadh",
+    "code": "JED"
+  },
+  {
+    "name": "Asia/Tehran",
+    "code": "THR"
+  },
+  {
+    "name": "Asia/Dubai",
+    "code": "DXB"
+  },
+  {
+    "name": "Asia/Kabul",
+    "code": "KBL"
+  },
+  {
+    "name": "Asia/Karachi",
+    "code": "KHI"
+  },
+  {
+    "name": "Asia/Kolkata",
+    "code": "DEL"
+  },
+  {
+    "name": "Asia/Kathmandu",
+    "code": "KTM"
+  },
+  {
+    "name": "Asia/Dhaka",
+    "code": "DAC"
+  },
+  {
+    "name": "Asia/Yangon",
+    "code": "RGN"
+  },
+  {
+    "name": "Asia/Bangkok",
+    "code": "BKK"
+  },
+  {
+    "name": "Asia/Singapore",
+    "code": "SIN"
+  },
+  {
+    "name": "Asia/Hong_Kong",
+    "code": "HKG"
+  },
+  {
+    "name": "Asia/Shanghai",
+    "code": "BJS"
+  },
+  {
+    "name": "Asia/Taipei",
+    "code": "TPE"
+  },
+  {
+    "name": "Asia/Seoul",
+    "code": "SEL"
+  },
+  {
+    "name": "Asia/Tokyo",
+    "code": "TYO"
+  },
+  {
+    "name": "Australia/Adelaide",
+    "code": "ADL"
+  },
+  {
+    "name": "Pacific/Guam",
+    "code": "GUM"
+  },
+  {
+    "name": "Australia/Sydney",
+    "code": "SYD"
+  },
+  {
+    "name": "Pacific/Noumea",
+    "code": "NOU"
+  },
+  {
+    "name": "Pacific/Auckland",
+    "code": "WLG"
+  }
 ]
